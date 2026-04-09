@@ -55,11 +55,21 @@
 ## 🌱 I'm Currently Learning
 
 <p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="55" height="55"/>
+  </a>
 </p>
 
 ---
@@ -67,9 +77,8 @@
 ## 👨‍💻 All of my projects are available at
 
 <p align="left">
-  &nbsp;&nbsp;
-  <a href="https://github.com/ThuryaNikethani">
-    <img src="https://img.shields.io/badge/GitHub-ThuryaNikethani-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
+  <a href="https://github.com/ThuryaNikethani" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
   </a>
 </p>
 
@@ -78,9 +87,8 @@
 ## 📫 How to reach me
 
 <p align="left">
-  &nbsp;&nbsp;
-  <a href="mailto:thuryanikethani@gmail.com">
-    <img src="https://img.shields.io/badge/thuryanikethani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:thuryanikethani@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="55" height="55"/>
   </a>
 </p>
 
