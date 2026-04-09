@@ -102,9 +102,9 @@
 
 ## 🤝 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/thuryanikethani" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-thuryanikethani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://linkedin.com/in/thuryanikethani" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
   </a>
 </p>
 
