@@ -168,29 +168,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThuryaNikethani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThuryaNikethani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuryaNikethani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuryaNikethani&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThuryaNikethani&theme=tokyonight&hide_border=true&fire=DD2727&ring=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThuryaNikethani&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThuryaNikethani&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=ThuryaNikethani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
