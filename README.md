@@ -1,14 +1,14 @@
-<!-- Animated header banner -->
+<!-- Animated header banner — capsule-render is very reliable -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Thurya%20Nikethani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student%20%7C%20Sri%20Lanka&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<!-- Typing animation -->
+<!-- Typing animation — demolab is stable and reliable -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Thurya+%F0%9F%91%8B;Call+me+Thinu+%E2%9A%A1;Software+Engineer+Student;Learning+Java%2C+Python%2C+Flutter%2C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Thurya+%F0%9F%91%8B;Call+me+Thinu+%E2%9A%A1;Software+Engineer+Student+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Currently+learning+Java%2C+Python%2C+Flutter%2C+SQL" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">An Undergraduate Software Engineer Student From Sri Lanka 🇱🇰</h3>
+<h3 align="center">An Undergraduate Software Engineer Student From Sri Lanka</h3>
 
 <!-- Profile views badge -->
 <p align="center">
@@ -17,74 +17,73 @@
 
 ---
 
-<!-- About me section with animated icons -->
 ## 🚀 About Me
 
 ```yaml
-name: Thurya Nikethani
-nickname: Thinu
+name    : Thurya Nikethani
+nickname: Thinu ⚡
 location: Sri Lanka 🇱🇰
-currently_learning: [Java, Python, Flutter, SQL]
-portfolio: https://github.com/ThuryaNikethani
-contact: thuryanikethani@gmail.com
+learning: [Java, Python, Flutter, SQL]
+projects: https://github.com/ThuryaNikethani
+contact : thuryanikethani@gmail.com
 fun_fact: "Call me as Thinu ⚡"
 ```
 
 ---
 
-<!-- Currently learning with animated gif -->
-## 🌱 Currently Learning
+## 🌱 I'm Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,flutter,mysql&perline=4&theme=dark" />
+<p align="left">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ---
 
-<!-- GitHub stats with animations -->
-## 📊 GitHub Stats
+## 👨‍💻 All of my projects are available at
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuryanikethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=00d4ff&text_color=ffffff" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuryanikethani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=ffffff" height="165" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuryanikethani&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=00d4ff&fire=ff6b6b&currStreakLabel=0e75b6" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- Activity graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuryanikethani&bg_color=0D1117&color=00d4ff&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
-<!-- Connect section -->
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/thuryanikethani" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="left">
+  &nbsp;&nbsp;
+  <a href="https://github.com/ThuryaNikethani">
+    <img src="https://img.shields.io/badge/GitHub-ThuryaNikethani-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
   </a>
+</p>
+
+---
+
+## 📫 How to reach me
+
+<p align="left">
+  &nbsp;&nbsp;
   <a href="mailto:thuryanikethani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/ThuryaNikethani" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/thuryanikethani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<!-- Languages & Tools -->
+## ⚡ Fun fact
+
+**Call me as Thinu**
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/thuryanikethani" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-thuryanikethani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -137,24 +136,32 @@ fun_fact: "Call me as Thinu ⚡"
 
 ---
 
-<!-- Animated snake contribution graph -->
-## 🐍 My Contributions
+## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuryanikethani/thuryanikethani/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuryanikethani/thuryanikethani/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/thuryanikethani/thuryanikethani/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThuryaNikethani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuryaNikethani&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ThuryaNikethani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-<!-- Trophies -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThuryaNikethani&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thuryanikethani&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ThuryaNikethani&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
