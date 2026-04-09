@@ -168,9 +168,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThuryaNikethani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/github/followers/ThuryaNikethani?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" alt="Followers"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuryaNikethani&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/stars/ThuryaNikethani?label=Total%20Stars&style=for-the-badge&color=ffd700&logo=github&logoColor=white" alt="Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total%20Commits-85%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-Learning-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <div align="center">
