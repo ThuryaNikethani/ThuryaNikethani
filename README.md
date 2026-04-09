@@ -5,7 +5,7 @@
 
 <!-- Typing animation — demolab is stable and reliable -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Thurya+%F0%9F%91%8B;Call+me+Thinu+%E2%9A%A1;Software+Engineer+Student+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Currently+learning+Java%2C+Python%2C+Flutter%2C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Thurya+%F0%9F%91%8B;Call+me+Thinu+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">An Undergraduate Software Engineer Student From Sri Lanka</h3>
