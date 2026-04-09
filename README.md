@@ -19,15 +19,36 @@
 
 ## 🚀 About Me
 
-```yaml
-name    : Thurya Nikethani
-nickname: Thinu ⚡
-location: Sri Lanka 🇱🇰
-learning: [Java, Python, Flutter, SQL]
-projects: https://github.com/ThuryaNikethani
-contact : thuryanikethani@gmail.com
-fun_fact: "Call me as Thinu ⚡"
-```
+<table>
+  <tr>
+    <td>🙋‍♀️ <b>Name</b></td>
+    <td>Thurya Nikethani</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Nickname</b></td>
+    <td>Thinu</td>
+  </tr>
+  <tr>
+    <td>🌍 <b>Location</b></td>
+    <td>Sri Lanka 🇱🇰</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Currently Learning</b></td>
+    <td>Java · Python · Flutter · SQL</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Portfolio</b></td>
+    <td><a href="https://github.com/ThuryaNikethani">github.com/ThuryaNikethani</a></td>
+  </tr>
+  <tr>
+    <td>📫 <b>Contact</b></td>
+    <td><a href="mailto:thuryanikethani@gmail.com">thuryanikethani@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>😄 <b>Fun Fact</b></td>
+    <td>Call me as Thinu ⚡</td>
+  </tr>
+</table>
 
 ---
 
