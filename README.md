@@ -1,6 +1,6 @@
-<!-- Animated header banner — capsule-render is very reliable -->
+<!-- Animated header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Thurya%20Nikethani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student%20%7C%20Sri%20Lanka&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc1a1,100:ff8a8a&height=200&section=header&text=Thurya%20Nikethani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student%20%7C%20Sri%20Lanka&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 <img width="1168" height="784" alt="banner" src="https://github.com/user-attachments/assets/5d7c10ae-f9be-48c2-a2b5-358eeb634ca0" />
 
