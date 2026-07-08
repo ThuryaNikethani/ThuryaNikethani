@@ -2,24 +2,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc1a1,100:ff8a8a&height=200&section=header&text=Thurya%20Nikethani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student%20%7C%20Sri%20Lanka&descAlignY=55&descAlign=50" width="100%"/>
 </div>
+
 <img width="1168" height="784" alt="banner" src="https://github.com/user-attachments/assets/5d7c10ae-f9be-48c2-a2b5-358eeb634ca0" />
 
-<!-- Typing animation — demolab is stable and reliable -->
+<!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Thurya+%F0%9F%91%8B;Call+me+Thinu+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=ff8a8a&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Thurya+%F0%9F%91%8B;Call+me+Thinu+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">An Undergraduate Software Engineer Student From Sri Lanka</h3>
 
 <!-- Profile views badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thuryanikethani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thuryanikethani" />
+  <img src="https://komarev.com/ghpvc/?username=thuryanikethani&label=Profile%20views&color=ff8a8a&style=for-the-badge" alt="thuryanikethani" />
 </p>
 
 ---
-
 ## 🚀 About Me
-
 <table>
   <tr>
     <td>🙋‍♀️ <b>Name</b></td>
@@ -52,9 +51,7 @@
 </table>
 
 ---
-
 ## 🌱 I'm Currently Learning
-
 <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
@@ -74,9 +71,7 @@
 </p>
 
 ---
-
 ## 👨‍💻 All of my projects are available at
-
 <p align="center">
   <a href="https://github.com/ThuryaNikethani" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
@@ -84,9 +79,7 @@
 </p>
 
 ---
-
 ## 📫 How to reach me
-
 <p align="center">
   <a href="mailto:thuryanikethani@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="55" height="55"/>
@@ -94,15 +87,11 @@
 </p>
 
 ---
-
 ## ⚡ Fun fact
-
 **Call me as Thinu**
 
 ---
-
 ## 🤝 Connect with me
-
 <p align="center">
   <a href="https://linkedin.com/in/thuryanikethani" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
@@ -110,9 +99,7 @@
 </p>
 
 ---
-
 ## 🛠️ Languages and Tools
-
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -165,11 +152,9 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ThuryaNikethani?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/ThuryaNikethani?label=Followers&style=for-the-badge&color=ff8a8a&logo=github&logoColor=white" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/github/stars/ThuryaNikethani?label=Total%20Stars&style=for-the-badge&color=ffd700&logo=github&logoColor=white" alt="Stars"/>
   &nbsp;
@@ -177,19 +162,18 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-Learning-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Learning-FF8A8A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Learning-FF8A8A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-Learning-FF8A8A?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Learning-FF8A8A?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThuryaNikethani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ThuryaNikethani&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
-
 <!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0e75b6&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc1a1,100:ff8a8a&height=120&section=footer" width="100%"/>
 </div>
